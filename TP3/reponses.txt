@@ -1,0 +1,16 @@
+Exerice 1 :
+  1) La taille de ce tableau est de 20 octets.
+  2) Il y a 5 éléments car on utilise des int de 32 bits soit 4 octets.
+  3) La moyenne est de 11,4.
+  4) Il faut tout d'abord corriger "short Notes = {8,10,12};" en "short Notes[] = {8,10,12};" car si non on ne déclare pas un tableau. Enfin au lieu de faire un sizeof(Notes)/4, puis qu'un int fait 4 octets, on fait sizeof(Notes)/2 car un short fait 2 Octets
+
+Exercice 2 :
+  1) On utilise printf("%s\n",chaine1)
+  2) Le character en chaine1[25] est Z
+  3) C'est une chaine de 50 octets et de 26 characters.
+
+Exercice 3 :
+  La string s'affiche correctement
+
+Exercice 4 :
+  La string s'affiche également correctement

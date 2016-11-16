@@ -1,0 +1,26 @@
+Exercice 1 copie d'écran :
+    pa : Direct : 0x7fff751c1630
+    Pointeur : 0x7fff751c1630
+    pb : Direct : 0x7fff751c1634
+    Pointeur : 0x7fff751c1634
+    Adresse de pa 0x7fff751c1638
+    Adresse de pb 0x7fff751c1640
+    ppa : Direct : 0x7fff751c1638
+    Pointeur : 0x7fff751c1638
+    ppb : Direct : 0x7fff751c1640
+    Pointeur : 0x7fff751c1640
+
+
+Exercice 2 copie d'écran : 
+    Prenom : leon, Nom : durand, age : 20, notes : 11 13 18 0
+    Prenom : lea, Nom : lake, age : 24, notes : 16 17 19 12
+    Prenom : tom, Nom : pouce, age : 26, notes : 11 12 0 0
+    Prenom : tony, Nom : Dinoso, age : 19, notes : 15 15 15 0
+    Prenom : luc, Nom : skywalker, age : 23, notes : 11 11 10 0
+
+    Tableau trié :
+    Prenom : lea, Nom : lake, age : 24, notes : 16 17 19 12
+    Prenom : leon, Nom : durand, age : 20, notes : 11 13 18 0
+    Prenom : luc, Nom : skywalker, age : 23, notes : 11 11 10 0
+    Prenom : tom, Nom : pouce, age : 26, notes : 11 12 0 0
+    Prenom : tony, Nom : Dinoso, age : 19, notes : 15 15 15 0

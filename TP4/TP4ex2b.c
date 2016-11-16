@@ -19,7 +19,7 @@ int main( )
   int i;
   for(i = 0; i < 5; i++)
   {
-    printf("Prenom : %s, Nom : %s, age : %i, notes : ",ElevesTab[i].Prenom, ElevesTab[i].Nom, ElevesTab[i].age);
+    printf("%s %s, age : %i, notes : ",ElevesTab[i].Prenom, ElevesTab[i].Nom, ElevesTab[i].age);
 
     int j;
     for(j = 0; j < 4; j++)
@@ -53,7 +53,7 @@ int main( )
   i=0;
   for(i = 0; i < 5; i++)
   {
-    printf("Prenom : %s, Nom : %s, age : %i, notes : ",ElevesTabTri[i].Prenom, ElevesTabTri[i].Nom, ElevesTabTri[i].age);
+    printf("%s %s, age : %i, notes : ",ElevesTabTri[i].Prenom, ElevesTabTri[i].Nom, ElevesTabTri[i].age);
 
     int j;
     for(j = 0; j < 4; j++)

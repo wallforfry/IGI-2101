@@ -1,0 +1,1 @@
+Bonjour, ceci est un texte pour tester le bon fonctionnement de votre programme.

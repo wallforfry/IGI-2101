@@ -8,9 +8,7 @@ int main(int argc, char *argv[]){
   FILE* fichier;
   char* fileName;
 
-  char name[50] = {};
-  char surname[50] = {};
-  int age;
+  int charac;
 
   if(argv[1] != NULL){
 
@@ -22,11 +20,11 @@ int main(int argc, char *argv[]){
 
       while(1){
 
-        fscanf(fichier, "%s %s %d", name, surname, &age);
-        if(feof(fichier)){
+        charac = fgetc(fichier);
+        if(charac == EOF){
           break;
         }
-        printf("Nom : %s Prénom : %s Age : %d\n", name, surname, age);
+        printf("caratere : %c code ascii : %d\n", charac, charac);
       }
     }
     else {

@@ -1,0 +1,138 @@
+Exercice 1 :
+      wallerand@lenovo-yoga:~/Documents/ESIEE/IGI2001/TP6$ ./exo1 hello
+      delevacq
+      wallerand
+      19
+      bouvet
+      jessy
+      20
+      FIN
+      wallerand@lenovo-yoga:~/Documents/ESIEE/IGI2001/TP6$
+
+
+Exercice 2 :
+      wallerand@lenovo-yoga:~/Documents/ESIEE/IGI2001/TP6$ ./exo2 hello
+      Nom : delevacq Prénom : wallerand Age : 19
+      Nom : bouvet Prénom : jessy Age : 20
+
+Exercice 3 :
+        wallerand@lenovo-yoga:~/Documents/ESIEE/IGI2001/TP6$ ./exo3 texte
+        caratere : B code ascii : 66
+        caratere : o code ascii : 111
+        caratere : n code ascii : 110
+        caratere : j code ascii : 106
+        caratere : o code ascii : 111
+        caratere : u code ascii : 117
+        caratere : r code ascii : 114
+        caratere : , code ascii : 44
+        caratere :   code ascii : 32
+        caratere : c code ascii : 99
+        caratere : e code ascii : 101
+        caratere : c code ascii : 99
+        caratere : i code ascii : 105
+        caratere :   code ascii : 32
+        caratere : e code ascii : 101
+        caratere : s code ascii : 115
+        caratere : t code ascii : 116
+        caratere :   code ascii : 32
+        caratere : u code ascii : 117
+        caratere : n code ascii : 110
+        caratere :   code ascii : 32
+        caratere : t code ascii : 116
+        caratere : e code ascii : 101
+        caratere : x code ascii : 120
+        caratere : t code ascii : 116
+        caratere : e code ascii : 101
+        caratere :   code ascii : 32
+        caratere : p code ascii : 112
+        caratere : o code ascii : 111
+        caratere : u code ascii : 117
+        caratere : r code ascii : 114
+        caratere :   code ascii : 32
+        caratere : t code ascii : 116
+        caratere : e code ascii : 101
+        caratere : s code ascii : 115
+        caratere : t code ascii : 116
+        caratere : e code ascii : 101
+        caratere : r code ascii : 114
+        caratere :   code ascii : 32
+        caratere : l code ascii : 108
+        caratere : e code ascii : 101
+        caratere :   code ascii : 32
+        caratere : b code ascii : 98
+        caratere : o code ascii : 111
+        caratere : n code ascii : 110
+        caratere :   code ascii : 32
+        caratere : f code ascii : 102
+        caratere : o code ascii : 111
+        caratere : n code ascii : 110
+        caratere : c code ascii : 99
+        caratere : t code ascii : 116
+        caratere : i code ascii : 105
+        caratere : o code ascii : 111
+        caratere : n code ascii : 110
+        caratere : n code ascii : 110
+        caratere : e code ascii : 101
+        caratere : m code ascii : 109
+        caratere : e code ascii : 101
+        caratere : n code ascii : 110
+        caratere : t code ascii : 116
+        caratere :   code ascii : 32
+        caratere : d code ascii : 100
+        caratere : e code ascii : 101
+        caratere :   code ascii : 32
+        caratere : v code ascii : 118
+        caratere : o code ascii : 111
+        caratere : t code ascii : 116
+        caratere : r code ascii : 114
+        caratere : e code ascii : 101
+        caratere :   code ascii : 32
+        caratere : p code ascii : 112
+        caratere : r code ascii : 114
+        caratere : o code ascii : 111
+        caratere : g code ascii : 103
+        caratere : r code ascii : 114
+        caratere : a code ascii : 97
+        caratere : m code ascii : 109
+        caratere : m code ascii : 109
+        caratere : e code ascii : 101
+        caratere : . code ascii : 46
+
+
+
+Exercice 4 :
+        wallerand@lenovo-yoga:~/Documents/ESIEE/IGI2001/TP6$ ./exo4 francais
+        anticonstitutionnellement
+        25
+        L'énoncé étant contradictoire ma fonction compte le nombre de carateres des mot et nous affiche le plus long
+
+
+Exercice 5 :
+        wallerand@lenovo-yoga:~/Documents/ESIEE/IGI2001/TP6$ ./exo5 francais
+        Total : 336531
+        1 lettres : 3
+        2 lettres : 91
+        3 lettres : 469
+        4 lettres : 2064
+        5 lettres : 6812
+        6 lettres : 15762
+        7 lettres : 27945
+        8 lettres : 40807
+        9 lettres : 49536
+        10 lettres : 51402
+        11 lettres : 46557
+        12 lettres : 36775
+        13 lettres : 25619
+        14 lettres : 15649
+        15 lettres : 8730
+        16 lettres : 4418
+        17 lettres : 2120
+        18 lettres : 977
+        19 lettres : 437
+        20 lettres : 205
+        21 lettres : 94
+        22 lettres : 42
+        23 lettres : 11
+        24 lettres : 4
+        25 lettres : 2
+        26 lettres : 0

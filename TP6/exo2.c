@@ -30,7 +30,7 @@ int main(int argc, char *argv[]){
       }
     }
     else {
-      printf("Impossible de créer le fichier\n");
+      printf("Impossible d'ouvrir le fichier\n");
     }
 
     fclose(fichier);

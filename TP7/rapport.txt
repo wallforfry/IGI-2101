@@ -1,0 +1,62 @@
+EXERCICE 1 :
+wallerand@lenovo-yoga:~/Documents/ESIEE/IGI2001/TP7$ ./test-ex1
+336531
+
+EXERCICE 2 :
+wallerand@lenovo-yoga:~/Documents/ESIEE/IGI2001/TP7$ ./test-ex2
+87
+
+EXERCICE 3 :
+wallerand@lenovo-yoga:~/Documents/ESIEE/IGI2001/TP7$ ./test-ex3
+abaissaient
+
+EXERCICE 4 :
+wallerand@lenovo-yoga:~/Documents/ESIEE/IGI2001/TP7$ ./test-ex4
+colegataire
+
+EXERCICE 5 :
+wallerand@lenovo-yoga:~/Documents/ESIEE/IGI2001/TP7$ ./pendu
+urgent
+Bienvenu dans le jeu du pendu :
+Vous devez trouver 6 lettres
+Entrez le mot à tester : d
+_
+
+/------
+Entrez le mot à tester : d
+_
+
+/------
+|     |
+Entrez le mot à tester : a
+_
+
+/------
+|     |
+|     Q
+Entrez le mot à tester : e
+_
+
+/------
+|     |
+|     Q
+|    \|/
+Entrez le mot à tester : r
+_
+
+/------
+|     |
+|     Q
+|    \|/
+|     |
+Entrez le mot à tester : t
+_
+
+/------
+|     |
+|     Q
+|    \|/
+|     |
+|    / \
+Entrez le mot à tester : urgent
+GAGNÉ
